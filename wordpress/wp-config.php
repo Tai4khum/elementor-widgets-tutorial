@@ -55,7 +55,7 @@ define( 'SECURE_AUTH_SALT',  'X]{dUB_qDzg*OwMio<^FOB_:ybh4&1SRY:J^Wzt`qjXZU}%n_8
 define( 'LOGGED_IN_SALT',    'eAg% J7qDfZRTtd,AI2;#t$y tHH~rvUW$E!CL.?`AE ia{xl(,*VrjBd<:%kAX8' );
 define( 'NONCE_SALT',        '$m;:cN~Ye71087f,WLmIOi)eZJ+1 [bG9qS SL>kiU2j_5SBt;{#Fe}$48sX&kIX' );
 define( 'WP_CACHE_KEY_SALT', 'W<%$/iQWDM}FwjTXGl8u}YoF]AquUSqI!nOB#Jt=3Y6Q|l7q8v)h2/SNjXoy}k0/' );
-
+ 
 /**
  * WordPress Database Table prefix.
  *
